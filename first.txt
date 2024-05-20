@@ -1,4 +1,5 @@
 はじめての作業
 ・git add
-・git command
+・git commit
 ・git rm
+・git status
