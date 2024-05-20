@@ -1,3 +1,4 @@
 はじめての作業
 ・git add
 ・git command
+・git rm
